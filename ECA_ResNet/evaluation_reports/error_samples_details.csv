@@ -1,0 +1,45 @@
+﻿image_path,filename,true_class,pred_class,true_idx,pred_idx
+/data/users/xzq/nilm/dataset_new/test/Incandescent Light Bulb/381_cycle_2.png,381_cycle_2.png,Incandescent Light Bulb,Fan,6,2
+/data/users/xzq/nilm/dataset_new/test/Heater/207_cycle_5.png,207_cycle_5.png,Heater,Hairdryer,5,4
+/data/users/xzq/nilm/dataset_new/test/Laptop/581_cycle_7.png,581_cycle_7.png,Laptop,Compact Fluorescent Lamp,7,1
+/data/users/xzq/nilm/dataset_new/test/Hairdryer/575_cycle_13.png,575_cycle_13.png,Hairdryer,Heater,4,5
+/data/users/xzq/nilm/dataset_new/test/Hairdryer/204_cycle_12.png,204_cycle_12.png,Hairdryer,Heater,4,5
+/data/users/xzq/nilm/dataset_new/test/Air Conditioner/788_cycle_11.png,788_cycle_11.png,Air Conditioner,Hairdryer,0,4
+/data/users/xzq/nilm/dataset_new/test/Air Conditioner/788_cycle_12.png,788_cycle_12.png,Air Conditioner,Hairdryer,0,4
+/data/users/xzq/nilm/dataset_new/test/Air Conditioner/788_cycle_6.png,788_cycle_6.png,Air Conditioner,Hairdryer,0,4
+/data/users/xzq/nilm/dataset_new/test/Air Conditioner/788_cycle_2.png,788_cycle_2.png,Air Conditioner,Hairdryer,0,4
+/data/users/xzq/nilm/dataset_new/test/Air Conditioner/788_cycle_14.png,788_cycle_14.png,Air Conditioner,Hairdryer,0,4
+/data/users/xzq/nilm/dataset_new/test/Air Conditioner/788_cycle_13.png,788_cycle_13.png,Air Conditioner,Hairdryer,0,4
+/data/users/xzq/nilm/dataset_new/test/Air Conditioner/788_cycle_8.png,788_cycle_8.png,Air Conditioner,Hairdryer,0,4
+/data/users/xzq/nilm/dataset_new/test/Air Conditioner/788_cycle_4.png,788_cycle_4.png,Air Conditioner,Hairdryer,0,4
+/data/users/xzq/nilm/dataset_new/test/Air Conditioner/788_cycle_1.png,788_cycle_1.png,Air Conditioner,Hairdryer,0,4
+/data/users/xzq/nilm/dataset_new/test/Air Conditioner/788_cycle_7.png,788_cycle_7.png,Air Conditioner,Hairdryer,0,4
+/data/users/xzq/nilm/dataset_new/test/Air Conditioner/788_cycle_9.png,788_cycle_9.png,Air Conditioner,Hairdryer,0,4
+/data/users/xzq/nilm/dataset_new/test/Air Conditioner/788_cycle_10.png,788_cycle_10.png,Air Conditioner,Hairdryer,0,4
+/data/users/xzq/nilm/dataset_new/test/Air Conditioner/788_cycle_15.png,788_cycle_15.png,Air Conditioner,Hairdryer,0,4
+/data/users/xzq/nilm/dataset_new/test/Air Conditioner/788_cycle_5.png,788_cycle_5.png,Air Conditioner,Hairdryer,0,4
+/data/users/xzq/nilm/dataset_new/test/Air Conditioner/788_cycle_3.png,788_cycle_3.png,Air Conditioner,Hairdryer,0,4
+/data/users/xzq/nilm/dataset_new/test/Fridge/530_cycle_3.png,530_cycle_3.png,Fridge,Washing Machine,3,10
+/data/users/xzq/nilm/dataset_new/test/Fridge/530_cycle_12.png,530_cycle_12.png,Fridge,Washing Machine,3,10
+/data/users/xzq/nilm/dataset_new/test/Fridge/530_cycle_1.png,530_cycle_1.png,Fridge,Washing Machine,3,10
+/data/users/xzq/nilm/dataset_new/test/Fridge/129_cycle_11.png,129_cycle_11.png,Fridge,Fan,3,2
+/data/users/xzq/nilm/dataset_new/test/Fridge/635_cycle_10.png,635_cycle_10.png,Fridge,Fan,3,2
+/data/users/xzq/nilm/dataset_new/test/Fridge/635_cycle_2.png,635_cycle_2.png,Fridge,Fan,3,2
+/data/users/xzq/nilm/dataset_new/test/Fridge/635_cycle_15.png,635_cycle_15.png,Fridge,Fan,3,2
+/data/users/xzq/nilm/dataset_new/test/Fridge/129_cycle_4.png,129_cycle_4.png,Fridge,Fan,3,2
+/data/users/xzq/nilm/dataset_new/test/Fridge/530_cycle_6.png,530_cycle_6.png,Fridge,Washing Machine,3,10
+/data/users/xzq/nilm/dataset_new/test/Fridge/530_cycle_13.png,530_cycle_13.png,Fridge,Washing Machine,3,10
+/data/users/xzq/nilm/dataset_new/test/Fridge/635_cycle_7.png,635_cycle_7.png,Fridge,Fan,3,2
+/data/users/xzq/nilm/dataset_new/test/Fridge/530_cycle_10.png,530_cycle_10.png,Fridge,Washing Machine,3,10
+/data/users/xzq/nilm/dataset_new/test/Fridge/129_cycle_8.png,129_cycle_8.png,Fridge,Fan,3,2
+/data/users/xzq/nilm/dataset_new/test/Fridge/530_cycle_14.png,530_cycle_14.png,Fridge,Washing Machine,3,10
+/data/users/xzq/nilm/dataset_new/test/Fridge/530_cycle_8.png,530_cycle_8.png,Fridge,Washing Machine,3,10
+/data/users/xzq/nilm/dataset_new/test/Fridge/530_cycle_7.png,530_cycle_7.png,Fridge,Washing Machine,3,10
+/data/users/xzq/nilm/dataset_new/test/Fridge/635_cycle_1.png,635_cycle_1.png,Fridge,Fan,3,2
+/data/users/xzq/nilm/dataset_new/test/Fridge/530_cycle_2.png,530_cycle_2.png,Fridge,Washing Machine,3,10
+/data/users/xzq/nilm/dataset_new/test/Fridge/129_cycle_1.png,129_cycle_1.png,Fridge,Air Conditioner,3,0
+/data/users/xzq/nilm/dataset_new/test/Fridge/635_cycle_3.png,635_cycle_3.png,Fridge,Fan,3,2
+/data/users/xzq/nilm/dataset_new/test/Fridge/635_cycle_6.png,635_cycle_6.png,Fridge,Fan,3,2
+/data/users/xzq/nilm/dataset_new/test/Fridge/635_cycle_8.png,635_cycle_8.png,Fridge,Fan,3,2
+/data/users/xzq/nilm/dataset_new/test/Fridge/129_cycle_2.png,129_cycle_2.png,Fridge,Fan,3,2
+/data/users/xzq/nilm/dataset_new/test/Fridge/530_cycle_11.png,530_cycle_11.png,Fridge,Washing Machine,3,10

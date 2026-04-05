@@ -1,0 +1,13 @@
+{
+  "Air Conditioner": 0,
+  "Compact Fluorescent Lamp": 1,
+  "Fan": 2,
+  "Fridge": 3,
+  "Hairdryer": 4,
+  "Heater": 5,
+  "Incandescent Light Bulb": 6,
+  "Laptop": 7,
+  "Microwave": 8,
+  "Vacuum": 9,
+  "Washing Machine": 10
+}

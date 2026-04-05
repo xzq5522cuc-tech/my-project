@@ -1,0 +1,27 @@
+{
+  "model_info": {
+    "model_name": "ECA-ResNet34",
+    "num_classes": 11,
+    "input_size": [
+      244,
+      244
+    ],
+    "device": "cuda:0"
+  },
+  "complexity": {
+    "total_params": 21290318,
+    "trainable_params": 21290318,
+    "conv_params": 21267648,
+    "fc_params": 5643,
+    "model_memory_mb": 81.21611785888672
+  },
+  "prediction": {
+    "predicted_class": "Fridge",
+    "predicted_idx": 3,
+    "confidence": 0.7253259420394897
+  },
+  "binary_potential": {
+    "binary_compression_ratio": 32.0,
+    "estimated_binary_model_size_mb": 10.15201473236084
+  }
+}

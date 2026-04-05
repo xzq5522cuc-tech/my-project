@@ -1,0 +1,12 @@
+,Pred_Air Conditioner,Pred_Compact Fluorescent Lamp,Pred_Fan,Pred_Fridge,Pred_Hairdryer,Pred_Heater,Pred_Incandescent Light Bulb,Pred_Laptop,Pred_Microwave,Pred_Vacuum,Pred_Washing Machine
+True_Air Conditioner,90,0,0,0,15,0,0,0,0,0,0
+True_Compact Fluorescent Lamp,0,270,0,0,0,0,0,0,0,0,0
+True_Fan,0,0,180,0,0,0,0,0,0,0,0
+True_Fridge,1,0,12,36,0,0,0,0,0,0,11
+True_Hairdryer,0,0,0,0,238,2,0,0,0,0,0
+True_Heater,0,0,0,0,1,59,0,0,0,0,0
+True_Incandescent Light Bulb,0,0,1,0,0,0,179,0,0,0,0
+True_Laptop,0,1,0,0,0,0,0,269,0,0,0
+True_Microwave,0,0,0,0,0,0,0,0,210,0,0
+True_Vacuum,0,0,0,0,0,0,0,0,0,60,0
+True_Washing Machine,0,0,0,0,0,0,0,0,0,0,45

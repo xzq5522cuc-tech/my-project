@@ -1,0 +1,17 @@
+name: nilm
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - cudatoolkit=11.0
+  - torchaudio==0.7.2
+  - torchvision==0.8.2
+  - jupyter
+  - matplotlib
+  - notebook
+  - numpy
+  - pandas
+  - scikit-learn
+prefix: /data/users/xzq/miniconda3/envs/nilm
