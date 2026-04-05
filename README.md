@@ -28,7 +28,7 @@ process_data/              # 生成3D轨迹
 ├─ split.py               # 划分数据集
 └─ VI_Trajectory.py       # 【主运行脚本】V-I轨迹生成全流程
 
-//V-I_Trajectory.py：原始开源VI_Trajectory处理脚本
+//V-I_Trajectory.py：原始VI_Trajectory处理脚本
 
 ./data/Colorful_VI_Trajectory 处理好的数据集
 ./data/users/xzq/nilm/dataset_new 最终划分好的数据集
