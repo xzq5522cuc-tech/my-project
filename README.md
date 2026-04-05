@@ -43,3 +43,11 @@ ECA_ResNet/                      # 模型训练根目录
 ECA_ResNet/                      # 模型训练根目录
 ├─ batch_predict.py              # test数据集上批量评估
 ├─ reports                       # 评估报告
+
+
+在测试集上达到 **97.5% 的总体准确率**，宏平均 F1 为 0.954。评估脚本自动生成混淆矩阵（含召回率/精确率标注）、各类别详细指标（CSV）及错误样本分析报告。
+
+**核心文件**：`process_data/VI_Trajectory.py`（生成轨迹图）、`process_data/split.py`（分层划分）、`ECA_ResNet/train.py`（训练）、`ECA_ResNet/batch_predict.py`（评估）。环境依赖见 `environment.yml`，plaid_2014.zip数据集请从 Releases 下载
+
+
+
